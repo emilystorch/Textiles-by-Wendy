@@ -1,0 +1,57 @@
+html{
+  font-family: "Liberation Sans", sans-serif;
+  color: #696969;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 200;
+}
+
+.nav{
+  background-color: white;
+  border:1px solid #ccc;
+  border-width:1px 0;
+  font-family: "Liberation Sans" ,sans-serif;
+  text-transform: uppercase;
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+
+.nav li{
+  background-color: white;
+  display: inline;
+}
+
+.nav a{
+  display: inline-block;
+  text-decoration: none;
+  color: #696969;
+  font-family: "Liberation Sans", sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 10px;
+}
+
+h2{
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.image{
+  display: flex;
+  justify-content: center;
+}
+
+p{
+  text-align: center;
+}
+
+footer {
+    display: block;
+}
